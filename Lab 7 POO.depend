@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1700157178 source:c:\users\student\desktop\lab 7 poo\lab 7 poo\main.cpp
+	"Lada_Frigorifica.h"
+	"Frigider.h"
+
+1700156792 source:c:\users\student\desktop\lab 7 poo\lab 7 poo\produs.cpp
+	"Produs.h"
+
+1700157178 c:\users\student\desktop\lab 7 poo\lab 7 poo\produs.h
+	<iostream>
+	<string.h>
+
+1700156792 source:c:\users\student\desktop\lab 7 poo\lab 7 poo\frigider.cpp
+	"Frigider.h"
+
+1700156792 c:\users\student\desktop\lab 7 poo\lab 7 poo\frigider.h
+	"Produs.h"
+
+1700156792 source:c:\users\student\desktop\lab 7 poo\lab 7 poo\lada_frigorifica.cpp
+	"Lada_Frigorifica.h"
+
+1700156792 c:\users\student\desktop\lab 7 poo\lab 7 poo\lada_frigorifica.h
+	"Produs.h"
+
